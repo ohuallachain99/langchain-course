@@ -1,7 +1,9 @@
+import os
+
 from dotenv import load_dotenv
 from langchain_core import agents
 from langchain_ollama import ChatOllama
-from tavily import 
+from tavily import
 
 load_dotenv()
 
